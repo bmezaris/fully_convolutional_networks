@@ -50,6 +50,7 @@ In [1] we observed an increase in accuracy when running experiment #2 compared t
 
 #### References
 [1] *K. Apostolidis, V. Mezaris, “Image Aesthetics Assessment using Fully Convolutional Neural Networks”, Proc. 25th Int. Conf. on Multimedia Modeling (MMM2019), Thessaloniki, Greece, Jan. 2019.*
+
 [2] *J. Long, E. Shelhamer, T. Darrell, “Fully convolutional networks for semantic segmentation”, Proc. IEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR), pp. 3431-3440, IEEE, 2015.*
 
 ## License and Citation
